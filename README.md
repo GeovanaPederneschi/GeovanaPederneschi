@@ -5,7 +5,7 @@
  <h>
   
 - 📫 How to reach me:
-   -  @geh_pederneschi Instagram
+   - [@geh_pederneschi](https://www.instagram.com/geh_pederneschi/)
    - geovanapederneschi@gmail.com
 
 <!---
