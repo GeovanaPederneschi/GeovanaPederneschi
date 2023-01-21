@@ -1,4 +1,4 @@
-<p align="center" style='padding:0;'>
+<p align="" style='padding:0;'>
    <img src="pexels-markus-spiske-1936299.jpg" #vitrinedev/>
 </p>
 
