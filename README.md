@@ -10,12 +10,12 @@
 - 📫 How to reach me:
    - DiscordTag: [minerva#4790](https://discord.com/channels/@me)
 
-<p align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/geh.pederneschi/)
 <a href = "mailto:geovanapederneschi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-pederneschi-691772226/)
- </p>
+ 
 
 ![GeovanaPederneschi GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula)
 
