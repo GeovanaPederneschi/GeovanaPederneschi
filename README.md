@@ -1,4 +1,4 @@
-#It's Geovana Pederneschi
+# It's Geovana Pederneschi
 
 
 - 👋 Hi, I’m @GeovanaPederneschi
@@ -10,7 +10,7 @@
 - 📫 How to reach me:
    - DiscordTag: [minerva#4790](https://discord.com/channels/@me)
 
-<p aling="center">
+<p align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/geh.pederneschi/)
