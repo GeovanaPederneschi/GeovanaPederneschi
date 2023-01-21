@@ -10,7 +10,7 @@
 - 📫 How to reach me:
    - DiscordTag: [minerva#4790](https://discord.com/channels/@me)
  
-<hr>
+##
  
 ![GeovanaPederneschi GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula)
 
