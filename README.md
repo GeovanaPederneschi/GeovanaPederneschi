@@ -1,3 +1,8 @@
+<p align="center">
+   <img src="pexels-markus-spiske-1936299.jpg" #vitrinedev/>
+</p>
+
+
 - 👋 Hi, I’m @GeovanaPederneschi
 - 👀 I’m interested in learn about programming.
 - 🌱 I’m currently learning PHP, JavaScript, Java and others languages.
