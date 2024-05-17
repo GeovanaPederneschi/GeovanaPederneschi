@@ -8,7 +8,7 @@
  <h>
   
 - 📫 How to reach me:
-   - DiscordTag: [minerva#4790](https://discord.com/channels/@me)
+   - DiscordTag: [viana_pederneschi](https://discord.com/channels/@me)
  
 ##
  
