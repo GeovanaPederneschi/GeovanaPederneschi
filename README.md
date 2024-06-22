@@ -1,10 +1,7 @@
 # It's Geovana Pederneschi
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Geovana+Pederneschi;I'm+19+years+old;I'm+from+Brazil;I'm+graduating+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @GeovanaPederneschi
-- 👀 I’m interested in learn about programming.
-- 🌱 I’m currently learning PHP, JavaScript, Java and others languages.
-- 💞️ I’m looking to collaborate on early-level projects.
  <h>
   
 - 📫 How to reach me:
