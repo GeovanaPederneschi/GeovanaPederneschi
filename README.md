@@ -12,10 +12,10 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula&card_width=400" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula&card_width=400&hide_border=true" />
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaPederneschi&show_icons=true&theme=dracula&layout=compact&card_width=400" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaPederneschi&show_icons=true&theme=dracula&layout=compact&card_width=400&hide_border=true" />
 </td>
 </tr>
 </table>
