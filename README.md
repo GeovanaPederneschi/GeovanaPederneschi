@@ -1,6 +1,6 @@
 # It's Geovana Pederneschi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Geovana+Pederneschi;I'm+19+years+old;I'm+from+Brazil;I'm+graduating+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Geovana+Pederneschi;I'm+21+years+old;I'm+from+Brazil;I'm+graduating+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <h>
   
@@ -9,13 +9,13 @@
  
 ##
  
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula" />
+<td valign="top" width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula&card_width=400" />
 </td>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaPederneschi&show_icons=true&theme=dracula&layout=compact" />
+<td valign="top" width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaPederneschi&show_icons=true&theme=dracula&layout=compact&card_width=400" />
 </td>
 </tr>
 </table>
