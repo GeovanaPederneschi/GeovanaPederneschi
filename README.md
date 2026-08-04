@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Geovana+Pederneschi;I'm+21+years+old;I'm+from+Brazil;I'm+graduating+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <h>
-  
+
+- ℹ️ Site: [Geovana Pederneschi](https://portifolio-pi-ten-82.vercel.app/)  
 - 📫 How to reach me:
    - DiscordTag: [viana_pederneschi](https://discord.com/channels/@me)
  
