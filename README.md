@@ -9,8 +9,16 @@
  
 ##
  
-![GeovanaPederneschi GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaPederneschi&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeovanaPederneschi&show_icons=true&theme=dracula" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaPederneschi&show_icons=true&theme=dracula&layout=compact" />
+</td>
+</tr>
+</table>
 
 ##
 
