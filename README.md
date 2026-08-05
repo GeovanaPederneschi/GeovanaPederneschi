@@ -4,7 +4,7 @@
 
  <h>
 
-- ℹ️ Site: [Geovana Pederneschi](https://portifolio-pi-ten-82.vercel.app/)  
+- ℹ️ Site: <a href="https://portifolio-pi-ten-82.vercel.app/" target="_blank">Geovana Pederneschi</a>  
 - 📫 How to reach me:
    - DiscordTag: [viana_pederneschi](https://discord.com/channels/@me)
  
